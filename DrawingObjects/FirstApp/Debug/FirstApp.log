@@ -1,0 +1,47 @@
+﻿  DrawingObjects.cpp
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Angel.h(64,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(33,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(37,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(38,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(39,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(40,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(42,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(43,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(44,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(45,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(47,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(48,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(49,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(50,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(52,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(53,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(54,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(57,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(58,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(59,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Shape.h(60,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(299,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(409,51): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(469,21): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(482,13): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(483,14): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(484,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\DrawingObjects.cpp(484,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  InitShader.cpp
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\Angel.h(64,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  FirstApp.vcxproj -> C:\Users\treyb\Desktop\2020-21\Graphics\3DShapes\Proj 3\DrawingObjects\Debug\DrawingObjects.exe
